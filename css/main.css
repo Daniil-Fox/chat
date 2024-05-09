@@ -378,6 +378,8 @@
           flex-grow: 1;
   border: none;
   resize: none;
+  scrollbar-width: thin;
+  scrollbar-color: #3378ff #e0e0e0;
 }
 .cognitivea-support-widget-support__area:focus {
   outline: none;
